@@ -1,0 +1,106 @@
+* {
+    color: white;
+}
+
+.FeedSettings {
+    margin-top: 10%;
+
+}
+
+.SettingsForm {
+    border: 1px solid #5f5b5b;
+    background-color: #1b1b1b;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 5px;
+}
+
+.standartBtn {
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-right: 12px;
+    border: none;
+    margin: 2px;
+    background-color: #444444;
+    position: relative;
+    align-items: flex-start;
+}
+
+.btnDropdown button {
+    border: none;
+    color: white;
+    border-radius: 0%;
+    transition: 150ms ease;
+    background: none;
+    margin-bottom: 2px;
+}
+
+.btnDropdown {
+    position: absolute;
+    margin-top: 30px;
+    background: none;
+    border: 1px solid #575656;
+
+}
+
+.FeedForm,
+.FeedForm div,
+.FeedForm div label {
+
+    background-color: #272525;
+    border-radius: 5px;
+    margin: 0px;
+    padding: 0px;
+
+}
+
+.FeedForm {
+    padding: 3px;
+    margin-top: 10px;
+    border: 1px solid #7a7777;
+}
+
+.link {
+    color: #757171;
+    background-color: transparent;
+    text-decoration: none;
+    text-decoration: underline;
+    font-size: 12px;
+
+}
+
+.linkToUser {
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #757171;
+}
+
+.time {
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #757171;
+}
+
+.align-end {
+    text-align: right;
+}
+
+.linkClass button {
+    background: #5a576b;
+    border-radius: 10px;
+    border: none;
+}
+.linkClass,
+.linkClass a {
+    background: none;
+    border: none;
+}
+.buttonsForFeed {
+    background: none;
+    border: none;
+    font-size: 12px;
+}
+.like {
+    background: none;
+    margin-bottom: 1px;
+}

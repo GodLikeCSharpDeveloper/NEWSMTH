@@ -1,0 +1,82 @@
+{"posts": [
+    {
+      "nickname": "john_doe",
+      "date_posted": "2023-07-29",
+      "category": "Technology",
+      "title": "Understanding Quantum Computing",
+      "likes_count": 425,
+      "comments_count": 34
+    },
+    {
+      "nickname": "jane_smith",
+      "date_posted": "2023-07-28",
+      "category": "Health",
+      "title": "Benefits of a Balanced Diet",
+      "likes_count": 320,
+      "comments_count": 29
+    },
+    {
+      "nickname": "tech_guru",
+      "date_posted": "2023-07-27",
+      "category": "Programming",
+      "title": "Introduction to Rust Programming",
+      "likes_count": 215,
+      "comments_count": 56
+    },
+    {
+      "nickname": "food_lover",
+      "date_posted": "2023-07-26",
+      "category": "Cuisine",
+      "title": "Exploring Italian Food: A Culinary Journey",
+      "likes_count": 150,
+      "comments_count": 23
+    },
+    {
+      "nickname": "traveler_01",
+      "date_posted": "2023-07-25",
+      "category": "Travel",
+      "title": "Top 10 Must-Visit Places in Europe",
+      "likes_count": 287,
+      "comments_count": 48
+    },
+    {
+      "nickname": "eco_warrior",
+      "date_posted": "2023-07-24",
+      "category": "Environment",
+      "title": "Sustainable Living: Tips and Tricks",
+      "likes_count": 395,
+      "comments_count": 52
+    },
+    {
+      "nickname": "fitness_freak",
+      "date_posted": "2023-07-23",
+      "category": "Fitness",
+      "title": "The Ultimate Guide to Home Workouts",
+      "likes_count": 412,
+      "comments_count": 30
+    },
+    {
+      "nickname": "art_enthusiast",
+      "date_posted": "2023-07-22",
+      "category": "Art",
+      "title": "Understanding Contemporary Art",
+      "likes_count": 192,
+      "comments_count": 19
+    },
+    {
+      "nickname": "fitness_freak",
+      "date_posted": "2023-07-23",
+      "category": "Fitness",
+      "title": "The Ultimate Guide to Home Workouts",
+      "likes_count": 412,
+      "comments_count": 30
+    },
+    {
+      "nickname": "art_enthusiast",
+      "date_posted": "2023-07-22",
+      "category": "Art",
+      "title": "Understanding Contemporary Art",
+      "likes_count": 192,
+      "comments_count": 19
+    }
+  ]}

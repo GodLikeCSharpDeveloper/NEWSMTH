@@ -1,0 +1,39 @@
+form {
+    border-bottom: 1px solid #666;
+    border: 90%;
+    background-color: #0B1416;
+    height: 5%;
+    padding: 5px;
+}
+img  {
+    background-color: transparent;  
+    width: 30px;
+}
+input {
+    border-radius: 25px;
+    background-color: #1e3338;
+    border: none;
+    width: 65%;
+    padding-left: 3.5%;
+    height: 100%;
+}
+.testing{
+    
+    position: relative;
+}
+.input-icon{
+    margin-top: 7px;
+    margin-left: 2px;
+    position: absolute;
+    background-color: transparent;
+}
+.buttonWrapper {
+    display: flex;
+    justify-content: flex-end;
+}
+.HeaderButton {
+    border-radius: 15px;
+    border-color: transparent;
+    background-color: #666;
+    margin-left:2px;
+}

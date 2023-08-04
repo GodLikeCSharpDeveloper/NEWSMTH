@@ -1,0 +1,31 @@
+.sidePanelBtn {
+    border: none;
+    background-color:  transparent;
+    color: white;
+    border-radius: 0%;
+    width: 100%;
+    transition: 150ms ease;
+}
+.frstButton{
+    margin-top: 10px;
+}
+.lastButton{
+    margin-bottom: 10px;
+}
+.lineSepparator {
+    border: #666 solid 1px;
+    height: 1px;
+    border-top:1px;
+    width: 100%;
+}
+.sidePanelBtn:hover {
+    
+    background-color: #101f22;
+}
+.sidePanel {
+    border-right: #666 1px solid;
+    height: 95vh;
+    padding: 0;
+    margin: 0;
+}
+
